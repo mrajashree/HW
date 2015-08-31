@@ -1,2 +1,2 @@
 # Sample repo for HW0
-This is a sample repo to test post commit hooks. It opens a new webpage on commit. A change. Added new python sript
+This is a sample repo to test post commit hooks. It opens a new webpage on commit. A change. Added new python sript. Trying first gif
