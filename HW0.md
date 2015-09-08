@@ -106,7 +106,7 @@ git commit
 ![alt text](./Screenshot.png "Screenshot")
 
 ## Link to gif
-![alt text](./Hooks.gif "Post-commit")
+![alt text](./hooks.gif "Post-commit")
 
 ## Contents of post-commit file
 ```
